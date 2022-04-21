@@ -1,0 +1,10 @@
+{
+    "name": "TTYD",
+    "description": "remote shell",
+    "repository": "https://github.com/hrb3rt/ttyd",
+    "logo": "",
+    "keywords": ["docker", "tty"],
+    "stack": "container",
+    "env": {
+    } 
+  }
